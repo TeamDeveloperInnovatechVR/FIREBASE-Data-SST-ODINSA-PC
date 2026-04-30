@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "sst-odinsa",
+    "sst-odinsa-pc": "sst-odinsa-pc"
+  },
+  "targets": {},
+  "etags": {}
+}
